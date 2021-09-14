@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on My Portfolio</title>
+    <link>https://luciefley.github.io/categories/</link>
+    <description>Recent content in Categories on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://luciefley.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>App</title>
+      <link>https://luciefley.github.io/categories/app/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciefley.github.io/categories/app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solo project</title>
+      <link>https://luciefley.github.io/categories/solo-project/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciefley.github.io/categories/solo-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group project</title>
+      <link>https://luciefley.github.io/categories/group-project/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciefley.github.io/categories/group-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://luciefley.github.io/categories/machine-learning/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciefley.github.io/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is not a data project</title>
+      <link>https://luciefley.github.io/categories/this-is-not-a-data-project/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciefley.github.io/categories/this-is-not-a-data-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data analysis</title>
+      <link>https://luciefley.github.io/categories/data-analysis/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciefley.github.io/categories/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tableau Public</title>
+      <link>https://luciefley.github.io/categories/tableau-public/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciefley.github.io/categories/tableau-public/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
