@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Portfolio</title>
+    <link>https://luciefley.github.io/posts/</link>
+    <description>Recent content in Posts on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://luciefley.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome!</title>
+      <link>https://luciefley.github.io/2021/09/000_intro/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciefley.github.io/2021/09/000_intro/</guid>
+      <description>&lt;p&gt;This is my data science project portfolio.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Spotify wrapped music App</title>
+      <link>https://luciefley.github.io/2021/08/004_spotify_wrapped/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciefley.github.io/2021/08/004_spotify_wrapped/</guid>
+      <description>&lt;p&gt;An App that returns my top songs from Spotify in the manner of Spotify&amp;rsquo;s wrapped.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>House price predictions</title>
+      <link>https://luciefley.github.io/2021/08/001_house-price-predictions-ml-project/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciefley.github.io/2021/08/001_house-price-predictions-ml-project/</guid>
+      <description>&lt;p&gt;A Machine Learning Kaggle challenge that I made with my friend Felipe.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>To-do List webpage</title>
+      <link>https://luciefley.github.io/2021/08/005_to_do_list/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciefley.github.io/2021/08/005_to_do_list/</guid>
+      <description>&lt;p&gt;A web page that allows to you to create your to-do list.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shops revenue predictions</title>
+      <link>https://luciefley.github.io/2021/07/003_shop_sales_predictions/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciefley.github.io/2021/07/003_shop_sales_predictions/</guid>
+      <description>&lt;p&gt;A Machine Learning excercise.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Analysis : Bike incidents in the US</title>
+      <link>https://luciefley.github.io/2021/07/002_bike_incidents_us/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciefley.github.io/2021/07/002_bike_incidents_us/</guid>
+      <description>&lt;p&gt;A Data visualization project with Tableau Public - and data from Kaggle.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
