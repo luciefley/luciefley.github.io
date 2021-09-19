@@ -6,13 +6,13 @@
     <description>Recent content in API on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://luciefley.github.io/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://luciefley.github.io/tags/api/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Spotify wrapped music App</title>
-      <link>https://luciefley.github.io/2021/07/004_spotify_wrapped/</link>
-      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      <link>https://luciefley.github.io/2021/08/004_spotify_wrapped/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://luciefley.github.io/2021/07/004_spotify_wrapped/</guid>
+      <guid>https://luciefley.github.io/2021/08/004_spotify_wrapped/</guid>
       <description>&lt;p&gt;An App that returns my top songs from Spotify in the manner of Spotify&amp;rsquo;s wrapped.&lt;/p&gt;</description>
     </item>
     
