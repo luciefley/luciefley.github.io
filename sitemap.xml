@@ -3,13 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://luciefley.github.io/</loc>
-    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luciefley.github.io/posts/</loc>
-    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luciefley.github.io/2021/09/000_intro/</loc>
-    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luciefley.github.io/categories/</loc>
+    <lastmod>2021-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luciefley.github.io/tags/data-visualization/</loc>
+    <lastmod>2021-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luciefley.github.io/2021/09/006_data_viz_tableau_playing/</loc>
+    <lastmod>2021-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luciefley.github.io/tags/tableau/</loc>
+    <lastmod>2021-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luciefley.github.io/categories/tableau-public/</loc>
+    <lastmod>2021-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luciefley.github.io/tags/</loc>
+    <lastmod>2021-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luciefley.github.io/tags/api/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
@@ -17,16 +35,10 @@
     <loc>https://luciefley.github.io/categories/app/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luciefley.github.io/categories/</loc>
-    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://luciefley.github.io/2021/08/004_spotify_wrapped/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luciefley.github.io/categories/solo-project/</loc>
-    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://luciefley.github.io/tags/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luciefley.github.io/tags/group-project/</loc>
@@ -52,18 +64,6 @@
   </url><url>
     <loc>https://luciefley.github.io/tags/predictions/</loc>
     <lastmod>2021-08-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://luciefley.github.io/tags/data-visualization/</loc>
-    <lastmod>2021-08-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://luciefley.github.io/2021/08/006_data_viz_tableau_playing/</loc>
-    <lastmod>2021-08-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://luciefley.github.io/tags/tableau/</loc>
-    <lastmod>2021-08-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://luciefley.github.io/categories/tableau-public/</loc>
-    <lastmod>2021-08-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luciefley.github.io/tags/javascript/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
