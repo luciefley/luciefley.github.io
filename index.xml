@@ -6,22 +6,22 @@
     <description>Recent content on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://luciefley.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://luciefley.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome!</title>
-      <link>https://luciefley.github.io/2021/09/000_intro/</link>
-      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <link>https://luciefley.github.io/2021/11/000_intro/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://luciefley.github.io/2021/09/000_intro/</guid>
+      <guid>https://luciefley.github.io/2021/11/000_intro/</guid>
       <description>&lt;p&gt;This is my data science project portfolio.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Data visualizations - Playing with Tableau</title>
-      <link>https://luciefley.github.io/2021/09/006_data_viz_tableau_playing/</link>
-      <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
+      <link>https://luciefley.github.io/2021/10/006_data_viz_tableau_playing/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://luciefley.github.io/2021/09/006_data_viz_tableau_playing/</guid>
+      <guid>https://luciefley.github.io/2021/10/006_data_viz_tableau_playing/</guid>
       <description>&lt;p&gt;A collection of dashboards made on Tableau Public to practice the principles of data visualizations and story telling.&lt;/p&gt;</description>
     </item>
     
