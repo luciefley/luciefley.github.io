@@ -6,7 +6,52 @@
     <description>Recent content in Tags on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://luciefley.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://luciefley.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data challenge</title>
+      <link>https://luciefley.github.io/tags/data-challenge/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciefley.github.io/tags/data-challenge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data visualization</title>
+      <link>https://luciefley.github.io/tags/data-visualization/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciefley.github.io/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tableau</title>
+      <link>https://luciefley.github.io/tags/tableau/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciefley.github.io/tags/tableau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data analysis</title>
+      <link>https://luciefley.github.io/tags/data-analysis/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciefley.github.io/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>School project</title>
+      <link>https://luciefley.github.io/tags/school-project/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciefley.github.io/tags/school-project/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>API</title>
       <link>https://luciefley.github.io/tags/api/</link>
@@ -62,56 +107,11 @@
     </item>
     
     <item>
-      <title>Data visualization</title>
-      <link>https://luciefley.github.io/tags/data-visualization/</link>
-      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://luciefley.github.io/tags/data-visualization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tableau</title>
-      <link>https://luciefley.github.io/tags/tableau/</link>
-      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://luciefley.github.io/tags/tableau/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Javascript</title>
       <link>https://luciefley.github.io/tags/javascript/</link>
-      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://luciefley.github.io/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>School project</title>
-      <link>https://luciefley.github.io/tags/school-project/</link>
-      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://luciefley.github.io/tags/school-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data analysis</title>
-      <link>https://luciefley.github.io/tags/data-analysis/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://luciefley.github.io/tags/data-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Solo project</title>
-      <link>https://luciefley.github.io/tags/solo-project/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://luciefley.github.io/tags/solo-project/</guid>
       <description></description>
     </item>
     
