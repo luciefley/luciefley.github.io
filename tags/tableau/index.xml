@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tableau on My Portfolio</title>
+    <link>https://luciefley.github.io/tags/tableau/</link>
+    <description>Recent content in Tableau on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://luciefley.github.io/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data visualizations - 2022 Challenges</title>
+      <link>https://luciefley.github.io/2022/03/008_data_viz_projects2022_part1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciefley.github.io/2022/03/008_data_viz_projects2022_part1/</guid>
+      <description>&lt;p&gt;In 2022, I set a goal to do more projects.
+Here are the dataviz I submitted to online challenges.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data visualizations - Christmas challenges</title>
+      <link>https://luciefley.github.io/2021/12/007_data_viz_christmas_challenges/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciefley.github.io/2021/12/007_data_viz_christmas_challenges/</guid>
+      <description>&lt;p&gt;Those dataviz were sent to data competitions for some december challenges. Both are made with Tableau Public.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Analysis : Bike incidents in the US</title>
+      <link>https://luciefley.github.io/2021/10/002_bike_incidents_us/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciefley.github.io/2021/10/002_bike_incidents_us/</guid>
+      <description>&lt;p&gt;A Data visualization project with Tableau Public - and data from Kaggle.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data visualizations - Playing with Tableau</title>
+      <link>https://luciefley.github.io/2021/09/006_data_viz_tableau_playing/</link>
+      <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciefley.github.io/2021/09/006_data_viz_tableau_playing/</guid>
+      <description>&lt;p&gt;A collection of dashboards made on Tableau Public to practice the principles of data visualizations and story telling.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
